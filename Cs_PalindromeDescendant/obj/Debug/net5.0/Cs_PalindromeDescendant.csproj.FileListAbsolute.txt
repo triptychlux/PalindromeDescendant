@@ -1,0 +1,16 @@
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\bin\Debug\net5.0\Cs_PalindromeDescendant.exe
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\bin\Debug\net5.0\Cs_PalindromeDescendant.deps.json
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\bin\Debug\net5.0\Cs_PalindromeDescendant.runtimeconfig.json
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\bin\Debug\net5.0\Cs_PalindromeDescendant.runtimeconfig.dev.json
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\bin\Debug\net5.0\Cs_PalindromeDescendant.dll
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\bin\Debug\net5.0\ref\Cs_PalindromeDescendant.dll
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\bin\Debug\net5.0\Cs_PalindromeDescendant.pdb
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\Cs_PalindromeDescendant.csproj.AssemblyReference.cache
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\Cs_PalindromeDescendant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\Cs_PalindromeDescendant.AssemblyInfoInputs.cache
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\Cs_PalindromeDescendant.AssemblyInfo.cs
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\Cs_PalindromeDescendant.csproj.CoreCompileInputs.cache
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\Cs_PalindromeDescendant.dll
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\ref\Cs_PalindromeDescendant.dll
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\Cs_PalindromeDescendant.pdb
+C:\Users\Kapi\source\repos\Cs_PalindromeDescendant\Cs_PalindromeDescendant\obj\Debug\net5.0\Cs_PalindromeDescendant.genruntimeconfig.cache
